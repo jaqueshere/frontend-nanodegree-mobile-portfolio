@@ -32,12 +32,9 @@ header { padding: 0 0.5em; color: #C90B0B; }
 }
 
 .content { padding: 1em 1em; }
-.content li { list-style-type: none; font-size: 1.1em;}
-li img { float:left; padding-right: 1em; }
-li p { font-size: 0.9em; font-style: italic; }
 
 footer {
   padding: 0 0.5em;
   border-top: 1px solid #ccc;
 }
-footer span { float: right; font-style: italic; }
+.footertext { float: right; font-style: italic; }
